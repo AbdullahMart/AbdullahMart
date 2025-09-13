@@ -1,6 +1,6 @@
 <!-- Profil Başlığı -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0077FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdullah+Mart+👋;Junior+Data+Engineer+%7C+Software+Developer;Passionate+about+Data%2C+AI+and+BI+Tools;Always+Learning+%26+Sharing+Knowledge" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0077FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdullah+Mart+👋;Junior+Data+Engineer+%7C+Software+Developer;Passionate+about+Data%2C+AI+and+BI+Tools" alt="Typing Animation">
 </p>
 
 ---
