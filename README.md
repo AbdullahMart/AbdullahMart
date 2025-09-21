@@ -5,17 +5,17 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🔭 Working as **Junior Data Engineer @ MySoly E-Learn BV**  
-- 🌱 Skilled in **Python, Java, SQL, Power BI, Microsoft Fabric**  
-- 👨‍🏫 Volunteer **IT Instructor** at We’rhere IT Academy  
-- 🎓 Former **Science Teacher** with 12+ years of experience  
-- 💡 Interested in **AI-driven Data Projects & BI Solutions**  
-- 🎸 Hobbies: Guitar, Calligraphy, Carpentry  
+##  About Me  
+- Working as **Junior Data Engineer @ MySoly E-Learn BV**  
+- Skilled in **Python, Java, SQL, Power BI, Microsoft Fabric**  
+- Volunteer **IT Instructor** at We’rhere IT Academy  
+- Former **Science Teacher** with 12+ years of experience  
+- Interested in **AI-driven Data Projects & BI Solutions**  
+- Hobbies: Guitar, Calligraphy, Carpentry  
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,postgres,mysql,powerbi,docker,azure,git,github" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMart&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
@@ -48,16 +48,16 @@
 
 ---
 
-## 🎓 Certifications  
+##  Certifications  
 
-- 🎯 **Oracle Java SE 8 Programmer I** (2024)  
-- 🎯 **Microsoft DP-700 Fabric Data Professional** (2025)  
-- 🎯 **SQL Intermediate – HackerRank** (2024)  
-- 🎯 **Project Cycle Management – Pamukkale University**  
+-  **Oracle Java SE 8 Programmer I** (2024)  
+-  **Microsoft DP-700 Fabric Data Professional** (2025)  
+-  **SQL Intermediate – HackerRank** (2024)  
+-  **Project Cycle Management – Pamukkale University**  
 
 ---
 
-## 📫 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullahmart/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -71,4 +71,4 @@
 </p>
 
 ---
-✨ *"Keep learning, keep building, and share your knowledge with others."* ✨
+ *"Keep learning, keep building, and share your knowledge with others."* 
